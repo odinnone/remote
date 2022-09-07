@@ -66,3 +66,5 @@ git checkout master
 ```
 git switch -
 ```
+
+## 8. Информация по работе с ветками
