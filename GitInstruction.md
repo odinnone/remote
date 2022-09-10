@@ -144,3 +144,4 @@ git push -u origin main
 ```
 get remote repository_name url-adress
 ```
+* Для получения информации из удаленного репозитория в локальный используется команда `git pull`
