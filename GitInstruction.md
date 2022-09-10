@@ -140,3 +140,7 @@ git remote add origin https://github.com/your_acount/repository_name
 git branch -M main
 git push -u origin main
 ```
+* Добавить удаленный репозиторий к проекту, для этого нужно ввести в терминале комнаду:
+```
+get remote repository_name url-adress
+```
