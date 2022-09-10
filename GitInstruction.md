@@ -134,4 +134,9 @@ git checkout branch_name
 
 * Создать аккаунт на GitHub
 * Создать локальный репозиторий
-* Связать удаленный репозиторий с локальным
+* Связать удаленный репозиторий с локальным, для этого в терминале нужно прописать команды:
+```
+git remote add origin https://github.com/your_acount/repository_name
+git branch -M main
+git push -u origin main
+```
